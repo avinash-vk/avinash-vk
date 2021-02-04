@@ -14,7 +14,7 @@ I'm a full stack web developer trying to javascript my way through life. I can a
 - Databases - MongoDB, Firestore, Firebase Realtime database
 - Others - Git(ofc), Graphql, Discordjs
 
-#### 🎈 More? About? Me?
+### 🎈 More? About? Me?
 - I love the process of ideating and building solutions that have a potential positive impact on absolutely anyone.
 - I can make some dad jokes.
 - I have ideas, tons of them.
